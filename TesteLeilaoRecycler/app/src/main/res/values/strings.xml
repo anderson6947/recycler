@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TesteLeilaoRecycler</string>
+    <string name="nome_do_produto">Nome do Produto de categoria</string>
+    <string name="ultimo_lance">Último Lance</string>
+    <string name="preco">R$ 00,00</string>
+    <string name="cidade">Itaperuna-RJ</string>
+    <string name="data">17/04</string>
+    <string name="tempo">7h 47m 53s</string>
+</resources>
